@@ -1,0 +1,2 @@
+# SECM
+Datenbankgestützte Näherungsverfahren für Kurvenanpassungen in der elektrochemischen Rastermikroskopie
